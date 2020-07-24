@@ -1,2 +1,2 @@
-# Temlate-1
-Temlate-1
+# Template-1
+Template-1
